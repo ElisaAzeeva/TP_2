@@ -1,0 +1,15 @@
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\bin\Debug\TP_2.exe.config
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\bin\Debug\TP_2.exe
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\bin\Debug\TP_2.pdb
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.csprojResolveAssemblyReference.cache
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\MainWindow.g.cs
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\App.g.cs
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2_MarkupCompile.cache
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2_MarkupCompile.lref
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\MainWindow.baml
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.g.resources
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.Properties.Resources.resources
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.csproj.GenerateResource.Cache
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.exe
+C:\Users\Eliza\Documents\Visual Studio 2017\Projects\TP_2\TP_2\obj\Debug\TP_2.pdb
