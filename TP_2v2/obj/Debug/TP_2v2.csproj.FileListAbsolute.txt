@@ -1,0 +1,7 @@
+D:\Documents\uni\TP_2\TP_2v2\bin\Debug\TP_2v2.exe.config
+D:\Documents\uni\TP_2\TP_2v2\bin\Debug\TP_2v2.exe
+D:\Documents\uni\TP_2\TP_2v2\bin\Debug\TP_2v2.pdb
+D:\Documents\uni\TP_2\TP_2v2\obj\Debug\TP_2v2.csprojAssemblyReference.cache
+D:\Documents\uni\TP_2\TP_2v2\obj\Debug\TP_2v2.csproj.CoreCompileInputs.cache
+D:\Documents\uni\TP_2\TP_2v2\obj\Debug\TP_2v2.exe
+D:\Documents\uni\TP_2\TP_2v2\obj\Debug\TP_2v2.pdb
